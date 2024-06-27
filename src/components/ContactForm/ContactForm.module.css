@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: column;
+max-width: 500px;
+
+}
+.inputWrap{
+    display: flex;
+    flex-direction: column;
+gap:10px;
+margin-bottom: 10px;
+
+}
+.fieldInput{
+height: 35px;
+}
+.labelText{
+font-size: 16px;
+}
